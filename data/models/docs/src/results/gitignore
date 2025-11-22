@@ -1,0 +1,23 @@
+# Python
+_pycache_/
+*.py[cod]
+env/
+venv/
+.env
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data & models (do not commit huge files)
+data/raw/
+data/processed/
+models/*/checkpoints/
+results/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
