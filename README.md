@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center" style="color:#3498DB;">
-  🤟 American Sign Language Recognition Project
+  🌿 American Sign Language Recognition Project
 </h1>
 
 <div align="center">
