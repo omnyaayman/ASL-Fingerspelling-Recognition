@@ -1,0 +1,15 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tensorflow==2.12.0
+torch
+torchvision
+opencv-python
+Pillow
+streamlit
+gradio
+jupyterlab
+pyyaml
+scikit-image
