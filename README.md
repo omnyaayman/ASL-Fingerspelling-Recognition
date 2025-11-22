@@ -1,45 +1,54 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=4FC3F7&center=true&vCenter=true&width=800&lines=ASL+Recognition+Project;American+Sign+Language+Classifier;Machine+Learning+%7C+Deep+Learning" />
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=ASL%20Recognition&width=900&height=250&color=blue" />
 </p>
 
+<h1 align="center" style="color:#3498DB;">
+  🤟 American Sign Language Recognition Project
+</h1>
+
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/AI%20Project-ASL%20Recognition-3498DB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-CNN-1ABC9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML%20Pipeline-Complete-9B59B6?style=for-the-badge" />
+
+</div>
+
+---
 
 ## 📝 *Project Description*
-This project focuses on building an Al-based system that recognizes American Sign Language (ASL) fingerspelling letters (A-Z) using machine-learning and deep-learning techniques.
 
-The system takes hand-gesture images as input, processes them, and predicts the correct ASL letter by analyzing features such as:
+This project focuses on building an AI-powered system that recognizes *American Sign Language (ASL)* fingerspelling letters (A-Z) using machine-learning and deep-learning techniques.
 
-Finger position
+The system learns from images of hand gestures and predicts the correct ASL letter based on:
 
-Hand shape
-
-Gesture orientation
+✨ Finger position  
+✨ Hand shape  
+✨ Gesture orientation  
 
 The project includes:
 
-Dataset preprocessing to clean and prepare the images
+- 📁 Dataset preprocessing (cleaning, resizing, splitting)  
+- 🧠 Training a CNN deep-learning model  
+- 📈 Evaluating accuracy, loss & metrics  
+- 🖥 Creating a friendly GUI for predictions  
+- 📂 A fully organized and documented GitHub repository  
 
-Training a deep-learning model (CNN) to classify the letters
+This results in a *complete ASL recognition tool* that can help translate ASL letters using AI.
 
-Evaluating the model using accuracy, loss curves, and performance metrics
+---
 
-Building a GUI that allows users to load the model, view images, and get instant predictions
+## 🌿 *Main Deliverables*
+- Clean preprocessed dataset 🧹  
+- Trained CNN model 🤖  
+- GUI for real-time letter prediction 🎨  
+- Visualizations (accuracy, loss, confusion matrix) 📊  
+- Full documentation 📚  
 
-This results in a complete ASL recognition tool that can help users understand or translate ASL letters using machine learning.
+---
 
-to deliver a complete ASL recognition tool.
-We developed:
-- A *clean dataset* 🧹  
-- A *trained ML model* 🤖  
-- A *Graphical User Interface (GUI)* to interact with the model 🎨  
-- Full documentation & organized structure 📂  
-
-The system allows users to:
-- Import or view data  
-- Train or load the model  
-- Make predictions  
-- Visualize results (accuracy, loss, confusion matrix, etc.)
-
+## 📂 *Repository Structure*
 ---
 
 ## 📂 *Repository Structure*
