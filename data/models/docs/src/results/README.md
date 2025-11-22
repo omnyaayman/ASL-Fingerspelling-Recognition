@@ -135,6 +135,7 @@ python gui/app.py
 
 ## 📁 Dataset Sources
 The dataset used in this project is the ASL Fingerspelling dataset from Kaggle:
+
 " https://www.kaggle.com/datasets/dorukdemirci/asl-alphabet-dataset/data "
 
 
