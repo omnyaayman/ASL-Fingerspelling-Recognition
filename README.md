@@ -1,10 +1,6 @@
 <p align="center">
-
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=ASL%20Recognition&width=800&height=250" />
 </p>
-
-<h1 align="center">
-  <span style="color:#1E90FF;">ASL Fingerspelling Recognition</span> 🔵
-</h1>
 
  A AI project for classifying American Sign Language (ASL) letters (A-Z) from images using CNNs & Transfer Learning.
 
