@@ -47,11 +47,17 @@ The system allows users to:
 ## 📂 *Repository Structure*
 
 data/
+
 models/
+
 gui/
+
 docs/
+
 README.md
+
 requirements.txt
+
 .gitignore
 
 
