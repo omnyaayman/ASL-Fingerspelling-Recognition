@@ -7,25 +7,29 @@
   <img src="https://img.shields.io/badge/Version-1.0-27AE60?style=for-the-badge">
   <img src="https://img.shields.io/badge/Machine%20Learning-Project-1ABC9C?style=for-the-badge">
 </div>
----
 
 ## 📝 *Project Description*
+This project focuses on building an Al-based system that recognizes American Sign Language (ASL) fingerspelling letters (A-Z) using machine-learning and deep-learning techniques.
 
-This project applies *AI* techniques to analyze and predict outcomes based on a given dataset classifying ASL fingerspelling letters (A-Z) from hand-gesture images.
+The system takes hand-gesture images as input, processes them, and predicts the correct ASL letter by analyzing features such as:
 
-Using deep-learning techniques (CNNs), the model learns visual features such as finger position, hand shape, and orientation.
+Finger position
 
-Once trained, the system can accurately recognize ASL letters and display the result to the user through a clean, easy-to-use interface.
+Hand shape
 
-This project combines:
+Gesture orientation
 
-Data preprocessing
+The project includes:
 
-Deep-learning model training
+Dataset preprocessing to clean and prepare the images
 
-Evaluation and performance visualization
+Training a deep-learning model (CNN) to classify the letters
 
-GUI integration
+Evaluating the model using accuracy, loss curves, and performance metrics
+
+Building a GUI that allows users to load the model, view images, and get instant predictions
+
+This results in a complete ASL recognition tool that can help users understand or translate ASL letters using machine learning.
 
 to deliver a complete ASL recognition tool.
 We developed:
