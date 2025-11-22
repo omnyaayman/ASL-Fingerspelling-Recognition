@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="LINK_TO_YOUR_BANNER" width="100%">
+</p>
+
 🌿 *ASL Fingerspelling Recognition*  
 🔍 CNN & Transfer Learning model to classify American Sign Language (ASL) letters (A-Z) from images.
 
