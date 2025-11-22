@@ -1,13 +1,12 @@
-<h1 align="center" style="color:#d4af37;">
-  ⭐ "American Sign Language Letters Dataset (A-Z)" – Gold & Silver Edition ⭐
+<h1 align="center" style="color:#2ECC71;">
+  🌿 American Sign Language Letters Dataset (A-Z) 🌿
 </h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Completed-d4af37?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Version-1.0-aaa?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Project-757575?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-2ECC71?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-1.0-27AE60?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Project-1ABC9C?style=for-the-badge">
 </div>
-
 ---
 
 ## 📝 *Project Description*
@@ -134,7 +133,4 @@ The dataset used in this project is the ASL Fingerspelling dataset from Kaggle:
 ---
 
 
-
-<div align="center">
-  <h3 style="color:#d4af37;">✨ Created with Passion • Styled in Gold & Silver ✨</h3>
-</div>
+💡 Innovation • Learning • Collaboration
