@@ -142,4 +142,4 @@ The dataset used in this project is the ASL Fingerspelling dataset from Kaggle:
 ---
 
 
-💡 Innovation • Learning • Collaboration
+
