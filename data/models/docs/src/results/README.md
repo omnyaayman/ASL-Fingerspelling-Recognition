@@ -3,9 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Completed-2ECC71?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Version-1.0-27AE60?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Project-1ABC9C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI Skills%20-Project-1ABC9C?style=for-the-badge">
 </div>
 
 ## 📝 *Project Description*
