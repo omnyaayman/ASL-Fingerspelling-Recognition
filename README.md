@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center" style="color:#3498DB;">
-  🌿 American Sign Language Recognition Project
+   🤖 American Sign Language Recognition Project
 </h1>
 
 <div align="center">
@@ -46,9 +46,6 @@ This results in a *complete ASL recognition tool* that can help translate ASL le
 - Visualizations (accuracy, loss, confusion matrix) 📊  
 - Full documentation 📚  
 
----
-
-## 📂 *Repository Structure*
 ---
 
 ## 📂 *Repository Structure*
