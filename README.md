@@ -106,7 +106,7 @@ requirements.txt
 | Category | Tools |
 |---------|-------|
 | *Programming Language* | Python 3.x |
-| *AI / DL Libraries* | scikit-learn, TensorFlow / PyTorch |
+| *AI / DL Libraries* | scikit-learn, TensorFlow  |
 | *Data Handling* | pandas, numpy |
 | *Visualization* | matplotlib, seaborn |
 | *GUI* |  Streamlit |
@@ -131,10 +131,10 @@ Based on the evaluation results, the best-performing model was selected for depl
 
 ---
 
-## ▶ How to Run the Project
+### ▶ How to Run the Project
 
 1. Install the required dependencies:
-```bash
+``bash
 pip install -r requirements.txt
 
  2. python models/train.py
@@ -142,7 +142,7 @@ pip install -r requirements.txt
 ---
 
 ## 👥 *Team Roles*
-| Member | Role |
+| Member | Role | 
 |--------|------|
 | *Student 1* | Data preprocessing + documentation |
 | *Student 2* | Model training + experiments |
@@ -154,6 +154,8 @@ pip install -r requirements.txt
 
 
 ---
+
+
 
 ## 📁 Dataset Sources
 The dataset used in this project is the ASL Fingerspelling dataset from Kaggle:
