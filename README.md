@@ -39,6 +39,29 @@ This results in a *complete ASL recognition tool* that can help translate ASL le
 
 ---
 
+## 🧠 Models Used
+
+This project applies transfer learning using three different Convolutional Neural Network (CNN) architectures to recognize ASL fingerspelling letters:
+
+- **ResNet50**
+- **EfficientNetB0**
+- **InceptionV3**
+
+Each model was fine-tuned on the ASL Alphabet dataset and evaluated independently.  
+A comparative analysis was conducted to determine the best-performing architecture based on accuracy, precision, and recall.
+
+---
+
+## 🔍 Model Explainability (Grad-CAM)
+
+To enhance model interpretability, **Grad-CAM (Gradient-weighted Class Activation Mapping)** was applied to visualize the regions of the hand images that most influenced the model’s predictions.
+
+Grad-CAM heatmaps highlight the important hand and finger regions used by the model during classification, ensuring that predictions are based on relevant visual features rather than background noise.
+
+This explainability step improves transparency, trust, and reliability of the AI system.
+
+---
+
 ## 🌿 *Main Deliverables*
 - Clean preprocessed dataset 🧹  
 - Trained CNN model 🤖  
@@ -86,40 +109,35 @@ requirements.txt
 | *AI / DL Libraries* | scikit-learn, TensorFlow / PyTorch |
 | *Data Handling* | pandas, numpy |
 | *Visualization* | matplotlib, seaborn |
-| *GUI* | Tkinter / PyQt / Streamlit |
+| *GUI* |  Streamlit |
 | *Utilities* | joblib, pickle |
 
 
 
 ---
 
-## 📊 *Model Results & Performance*
+## 📊 Model Results & Comparison
 
-### *📈 Accuracy Curve*
+The following table summarizes the performance of the three CNN architectures used in this project:
 
+| Model | Accuracy | Precision | Recall |
+|------|----------|-----------|--------|
+| ResNet50 | XX% | XX% | XX% |
+| EfficientNetB0 | XX% | XX% | XX% |
+| InceptionV3 | XX% | XX% | XX% |
 
-### *📉 Loss Curve*
+Based on the evaluation results, the best-performing model was selected for deployment in the GUI application.
 
-
-### *🧪 Evaluation Metrics*
-- Accuracy: *XX%*
-- Precision: *XX%*
-- Recall: *XX%*
-- F1-score: *XX%*
 
 ---
 
-### ⚙ Dependencies
-All required libraries are listed in requirements.txt  
-To install:
+## ▶ How to Run the Project
+
+1. Install the required dependencies:
+```bash
 pip install -r requirements.txt
 
-### ▶ How to Run the Model
-python models/train.py
-
-### 🖥 Launching the GUI
-python gui/app.py
-
+ 2. python models/train.py
 
 ---
 
