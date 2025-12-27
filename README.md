@@ -129,27 +129,6 @@ The following table summarizes the performance of the three CNN architectures us
 Based on the evaluation results, the best-performing model was selected for deployment in the GUI application.
 
 
----
-
-### ▶ How to Run the Project
-
-1. Install the required dependencies:
-``bash
-pip install -r requirements.txt
-
- 2. python models/train.py
-
----
-
-## 👥 *Team Roles*
-| Member | Role | 
-|--------|------|
-| *Student 1* | Data preprocessing + documentation |
-| *Student 2* | Model training + experiments |
-| *Student 3* | GUI development |
-| *Student 4* | GitHub maintenance + visualization |
-| *Student 5* | *************************|
-| *Student 6* | ********************|
 
 
 
