@@ -114,22 +114,6 @@ requirements.txt
 
 
 
----
-
-## 📊 Model Results & Comparison
-
-The following table summarizes the performance of the three CNN architectures used in this project:
-
-| Model | Accuracy | Precision | Recall |
-|------|----------|-----------|--------|
-| ResNet50 | XX% | XX% | XX% |
-| EfficientNetB0 | XX% | XX% | XX% |
-| InceptionV3 | XX% | XX% | XX% |
-
-Based on the evaluation results, the best-performing model was selected for deployment in the GUI application.
-
-
-
 
 
 ---
